@@ -11,7 +11,7 @@ Prerequisites: Web cam,
                PIL
                
 If you get stuck anywhere feel free to ping me.
-This is team work and credits goes to @Bhavin, @Dhruv & @Vivek.
+This is team work and credits goes to @Bhavin, @Neel & @Vivek.
 
-Copyrights © 2021 by Neel Patel.
+Copyrights © 2021 by Dhruv Thummar.
 All rights are reserved.
